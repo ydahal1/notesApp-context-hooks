@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/notesApp-context-hooks/static/css/main.661dd15f.chunk.css",
+    "main.js": "/notesApp-context-hooks/static/js/main.fd5a5ac5.chunk.js",
+    "main.js.map": "/notesApp-context-hooks/static/js/main.fd5a5ac5.chunk.js.map",
+    "runtime-main.js": "/notesApp-context-hooks/static/js/runtime-main.1218e061.js",
+    "runtime-main.js.map": "/notesApp-context-hooks/static/js/runtime-main.1218e061.js.map",
+    "static/css/2.b2d342f0.chunk.css": "/notesApp-context-hooks/static/css/2.b2d342f0.chunk.css",
+    "static/js/2.fd9fdbe5.chunk.js": "/notesApp-context-hooks/static/js/2.fd9fdbe5.chunk.js",
+    "static/js/2.fd9fdbe5.chunk.js.map": "/notesApp-context-hooks/static/js/2.fd9fdbe5.chunk.js.map",
+    "static/js/3.b83093a7.chunk.js": "/notesApp-context-hooks/static/js/3.b83093a7.chunk.js",
+    "static/js/3.b83093a7.chunk.js.map": "/notesApp-context-hooks/static/js/3.b83093a7.chunk.js.map",
+    "index.html": "/notesApp-context-hooks/index.html",
+    "static/css/2.b2d342f0.chunk.css.map": "/notesApp-context-hooks/static/css/2.b2d342f0.chunk.css.map",
+    "static/css/main.661dd15f.chunk.css.map": "/notesApp-context-hooks/static/css/main.661dd15f.chunk.css.map",
+    "static/js/2.fd9fdbe5.chunk.js.LICENSE.txt": "/notesApp-context-hooks/static/js/2.fd9fdbe5.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/notesApp-context-hooks/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1218e061.js",
+    "static/css/2.b2d342f0.chunk.css",
+    "static/js/2.fd9fdbe5.chunk.js",
+    "static/css/main.661dd15f.chunk.css",
+    "static/js/main.fd5a5ac5.chunk.js"
+  ]
+}
