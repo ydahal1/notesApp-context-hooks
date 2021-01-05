@@ -1,0 +1,25 @@
+.note {
+  display: flex;
+  justify-content: space-between;
+  padding: 14px;
+  background: lightgray;
+  margin: 7px;
+  width: 450px;
+  display: flex;
+  place-items: center;
+  color: gray;
+}
+
+.fa {
+  margin-left: 7px;
+  color: gray;
+  transition: all 0.5s ease-in-out;
+}
+
+.fa:hover {
+  margin-left: 10px;
+  color: red;
+  cursor: pointer;
+  transform: scale(1.4);
+  color: black;
+}
